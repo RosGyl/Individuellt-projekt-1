@@ -18,7 +18,7 @@ Förutsättningar
 
 För att köra applikationen på din maskin, följ dessa steg:
 
-# 1. Klona repositoriet
+Klona repositoriet
 
 
 git clone https://github.com/ditt-användarnamn/todo-app.git
