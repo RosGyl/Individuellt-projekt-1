@@ -16,7 +16,7 @@ Förutsättningar
 
  Komma igång
 
-För att köra applikationen på din maskin, följ dessa steg:
+För att köra applikationen på din maskin.
 
 Klona repositoriet
 
